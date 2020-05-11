@@ -1,2 +1,2 @@
-# MB315Lecture1
-SCORM object for lecture 1
+# MB315LectureSlides
+Lecture slides in .html for smooth demo integration.
